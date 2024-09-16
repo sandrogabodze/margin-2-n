@@ -1,0 +1,21 @@
+
+h2{
+    color:red;
+    
+}
+ol { 
+    color: grey;
+    line-height: 19.36px;
+
+} 
+.ol-tag{
+    margin-top: 26px;
+    margin-left:60px ;
+}
+
+p{
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+line-height: 19.36px;
+}
